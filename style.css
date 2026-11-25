@@ -5,8 +5,8 @@ body {
   font-family: sans-serif;
   margin: 24px;
   /* งาน 1: เปลี่ยนสีพื้นหลังและสีตัวอักษรของหน้าเว็บ */
-  background-color: rgb(252, 217, 234);
-  color: black;
+  background-color: rgb(252, 178, 214);
+  color: rgb(39, 30, 30);
 }
 
 /* กล่องที่ครอบการ์ดทั้งหมด จัดเรียงเป็นแนวนอน */
