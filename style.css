@@ -18,9 +18,9 @@ body {
 
 .card {
   /* งาน 2: ตกแต่งการ์ด เช่น border, border-radius, padding, background-color */
-  border: 1px solid gray;
+  border: 1px solid rgb(121, 94, 94);
   padding: 8px;
-  background-color: rgb(253, 253, 230);
+  background-color: rgb(253, 247, 230);
   border-radius: 16px;
 }
 
